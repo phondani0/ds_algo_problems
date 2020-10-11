@@ -3,3 +3,7 @@
 !*.*
 
 *.out
+
+.vscode
+
+*.json
